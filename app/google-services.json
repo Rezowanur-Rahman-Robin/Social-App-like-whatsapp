@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735230033682",
+    "firebase_url": "https://robchat-e6c94.firebaseio.com",
+    "project_id": "robchat-e6c94",
+    "storage_bucket": "robchat-e6c94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735230033682:android:c473c5279dfd2da6dffdcb",
+        "android_client_info": {
+          "package_name": "com.robin.robchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735230033682-t0c05v1l2t7pskkp1l847h4a6clfnblb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robin.robchat",
+            "certificate_hash": "00777b7cdeca29512b584f5454e957e317ce97f4"
+          }
+        },
+        {
+          "client_id": "735230033682-ehhu43bph3hkqamo3fn0r39np6mlklm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaPryNdczkCWmf6C4OkOBdpBChTUgPi0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735230033682-ehhu43bph3hkqamo3fn0r39np6mlklm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
